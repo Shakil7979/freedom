@@ -149,6 +149,16 @@
         max-width: 100%;
         margin: 0 auto 40px auto;
     }
+    .sub_body { 
+        position: relative;
+    }
+    .header_area {
+        position: sticky;
+        top: 0;
+        left: 0; 
+        background: #ffff;
+        z-index: 99999;
+    }
 }
 
 @media all and (max-width: 575px){
