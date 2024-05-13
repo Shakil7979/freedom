@@ -371,6 +371,15 @@ ul li a,a{
 	margin-top: 28px;
 }
 
+input:focus:focus-visible {
+	outline: none;
+}
+
+.section_padding.mobile_form {
+	background: #ddd;
+}
+
+
 
 
 

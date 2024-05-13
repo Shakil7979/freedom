@@ -160,6 +160,12 @@
         z-index: 99999;
         box-shadow: 0 2px 10px #ddd;
     }
+    .banner_form {  
+        background: #ddd;
+    }
+    .input_group textarea, .input_group input {
+        background: #eee;
+    }
 }
 
 @media all and (max-width: 575px){
